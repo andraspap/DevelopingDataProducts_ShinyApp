@@ -1,0 +1,1 @@
+This application predicts the mileage of a car based on four possible predictors. Select a predictor and then type in the desired value for the predictor and click "Go". See that the predicted values are marked on the graph (red and blue filled circles) and that the actual values of the predicted values for automatic and manual cars are displayed in the text box bellow the graph.
